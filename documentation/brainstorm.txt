@@ -1,0 +1,72 @@
+FEATURES:
+    *For every stats have general, T, and CT versions. Also, LT (long term), and different period MAs (3, 5, 7, 10, 13, 15, 20)*
+    -KPR (kill per round)
+    -KDR (kill death ratio)
+    -SPR (Survival per round)
+    -TDP (% share of team damage)
+    -DPR (death per round)
+    -ADR (Average damage per round)
+    -APR (Assist per round)
+    -FKR (First kills per round)
+    -FDR (First deaths per round)
+    -ODWR (opening duel win rate)
+    -HSP (headshot percentage)
+    -KAST (Average kast (already a per roun stat inehrently))
+    -RWPR (Conversion [round win] per round)
+    -KPR2[3,4,5] (Average multikills per round)
+    -CPR (Clutch per round)
+    -TKPR (trade kills per round)
+    -TDDR (Traded death per death)
+    -EI (economic efficiency [will have to figure out details but baseline score + points for multipliers + points for actions like kills,plants,etc])
+        >EI = (Base EI * Economic Multiplier) * damage
+        >base = 100, multiplier = opp_$ / our_$, 
+    -PR (player rating [already calculated on per round basis])
+    -MIS (baseline points for kills plus multiplier for multikills)
+        >kills + kills^(sqrt(kills/5)) - 1
+    -CR (clutch rate, number of clutches vs number of attempts)
+    -WCR (weighted clutch rate, )
+    -ACPR (accuracy per round (hits / shots) average over rounds)
+    -CPK (Cost Per Kill The amount of money spent by the player for each kill they achieve. This takes into account weapon and utility purchases.)
+    -EVSPR (Equipment Value Saved The monetary value of equipment (guns, armor, grenades) a player saves after rounds they survive.)
+    -BPK (bullets per kill)
+    -DTPR (Damage taken per round)
+    -BPPA (Bomb plants per attempt) [would have to remove fakes]
+    -BDPA (Bomb defuse per attempt)
+    -FAPR (Flash assists per round)
+    -UDPR (utility damage per round)
+    -UDPI (utility damage per investment) [ud / money spent]
+    -CVPR (lost clutches per attempt vs)
+    -ACT (average cohesion time)
+        >get number of days they have played with current team mates (per team mate)
+        >average time by summing thn dividing by number of teammates
+    -Past head to head results
+    -Time since last match
+    -Matches played in last n number of days
+
+
+IDEAS:
+    -Glicko on players with the gamma kills factor
+
+    -instead of average stat bayesian shrinkage do pooled average (s,a,b) tier events
+        >apply to player based on how their kpr was in s, vs a, vs b etc..
+
+    -Expected stat models
+        >create model (find relationship from scatter) to build relatiosnip based on expected stat using glicko, historical averages, etc as features. 
+        >Could use this to scale an adjusted stat after match or some kind of % differnece between expected and realized
+
+    -Z score stat adjustment
+        >get average of opponents performance (maybe pooled by tier/map), use mean and std to calculate Z score of player vs that
+
+    -Pool models by using tier / map / etc...
+
+    -Linear regression for stats instead of bayesian shrinkage using stat + games played
+
+
+FUTURE:
+    -Props models (totals, round counts, game scores etc)
+
+    -Do win % for games including current score so it can be applied round by round
+
+
+
+

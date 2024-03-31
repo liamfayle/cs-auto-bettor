@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Positions</title>
+    <link rel="stylesheet" href="{{ url_for('static',filename='styles/styles.css') }}">
+</head>
+<body>
+    <section class="strategy-performance">
+        <h1>Open Positions</h1>
+        <div class="table-container">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Team Side</th>
+                        <th>Team Name</th>
+                        <th>Total Dollars</th>
+                        <th>SW My Odds</th>
+                        <th>SW Book Odds</th>
+                        <th>Status</th>
+                        <th>$ Return</th>
+                        <th>% Return</th>
+                        <th>Closing Line</th>
+                        <th>CLV</th>
+                        <th>CLV %</th>
+                        <th>nvCLV %</th>
+                    </tr>
+                </thead>
+                <tbody>
+                {% for position in open_positions %}
+                    <tr>
+                        <td>{{ position.team_side }}</td>
+                        <td>{{ position.team_name }}</td>
+                        <td>{{ position.total_dollars }}</td>
+                        <td>{{ position.sw_my_odds }}</td>
+                        <td>{{ position.sw_book_odds }}</td>
+                        <td>{{ position.status }}</td>
+                        <td>{{ position.return_dollar }}</td>
+                        <td>{{ position.return_percentage }}</td>
+                        <td>{{ position.closing_line }}</td>
+                        <td>{{ position.clv }}</td>
+                        <td>{{ position.clv_percentage }}</td>
+                        <td>{{ position.nv_clv_percentage }}</td>
+                    </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+        </div>
+
+        <h1>Closed Positions</h1>
+        <div class="table-container">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Team Side</th>
+                        <th>Team Name</th>
+                        <th>Total Dollars</th>
+                        <th>SW My Odds</th>
+                        <th>SW Book Odds</th>
+                        <th>Status</th>
+                        <th>$ Return</th>
+                        <th>% Return</th>
+                        <th>Closing Line</th>
+                        <th>CLV</th>
+                        <th>CLV %</th>
+                        <th>nvCLV %</th>
+                    </tr>
+                </thead>
+                <tbody>
+                {% for position in closed_positions %}
+                    <tr>
+                        <td>{{ position.team_side }}</td>
+                        <td>{{ position.team_name }}</td>
+                        <td>{{ position.total_dollars }}</td>
+                        <td>{{ position.sw_my_odds }}</td>
+                        <td>{{ position.sw_book_odds }}</td>
+                        <td>{{ position.status }}</td>
+                        <td>{{ position.return_dollar }}</td>
+                        <td>{{ position.return_percentage }}</td>
+                        <td>{{ position.closing_line }}</td>
+                        <td>{{ position.clv }}</td>
+                        <td>{{ position.clv_percentage }}</td>
+                        <td>{{ position.nv_clv_percentage }}</td>
+                    </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </section>
+</body>
+</html>

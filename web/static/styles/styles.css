@@ -1,0 +1,51 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f4f4f4;
+}
+
+.strategy-performance {
+    width: 90%;
+    max-width: 1200px;
+    margin: 20px auto;
+}
+
+.table-container {
+    margin-bottom: 20px;
+    overflow-x: auto; /* Enables horizontal scrolling for smaller screens */
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+thead {
+    background-color: #333;
+    color: #fff;
+}
+
+th, td {
+    text-align: left;
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+}
+
+th:first-child, td:first-child {
+    display: none; /* Hide the first column (ID or match_id) */
+}
+
+tbody tr:nth-child(odd) {
+    background-color: #f9f9f9;
+}
+
+@media screen and (max-width: 600px) {
+    th, td {
+        display: block; /* On small screens, make all cells behave like block elements */
+    }
+    .table-container {
+        width: 100%;
+        overflow-y: hidden; /* Disable vertical scrolling on small screens */
+    }
+}

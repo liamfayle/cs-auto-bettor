@@ -1,0 +1,166 @@
+[INFO] 2023-11-16 21:02:27: Program Starting.
+[INFO] 2023-11-16 21:02:57: Sending captcha request: OK|75039272960
+[INFO] 2023-11-16 21:03:22: Polling captcha result: CAPCHA_NOT_READY
+[INFO] 2023-11-16 21:03:27: Polling captcha result: OK|03AFcWeA7-0B7YU8YQiIn3nYKVJtI0tmnoahnREIE3-ux2Mn7D7B8qUU2hQnObjTYCqn4J8Fc5dZHARNC8NniGs_fnnlYjV23pDd3lfI6bM_qBdRQzI2AN7MKsF97PYwKq-81trVDXKEgs8Bt0F2afCtg7k0iEP3eWr6JdEhLeHVJ4WUEhciGNJ-EJf8UJ9m3AYogY0Fmag6xVL0N6ji2VaYvnTxolD0zpru1usufEW8OMb7RPfqIhrjNc_dEGDeKVwSogK9XARR7C4wzQnTQVleOXmFB7w_ugvcE7IYUa5zyIL7sf6dnyOHE9ZREhc00yDjiTqIAiNd9-OuPPAtNzDnPvpIMDysRb7cqXMX2a4UF14vRNYkZ-smWjzzf05LspGKVE0CPwm9kQmKeh_Glld7rZM4QuOEZbJ1V6Y5XJHCXd2Y93Pdc3Ows3W-G_JoiW1hllcKUGFZ44EvTLuLanVLX6VZ7QAo7F3trGhy7rsAe7JzMdOhW2IVGEDW4mgRzuU99xq6yfF-ZzXXBpS_DbdwTMcWnigKbOXXq59JHwfqIWNs6J1Qg4ekHgmgqqdWX6yOEDsA4iVZ9hZf1eqnvBqf2ezCS053-qO3N4O79MVGD3OLsFiMExarUc9rm3cYF7kcDutBZAVJnM-sRdz1jY6-AFwqVL9HvU9bBpUN9v-q4sJX8Gi5YeOXk
+[INFO] 2023-11-16 21:03:54: Getting line info.
+[INFO] 2023-11-16 21:04:28: Beginning loop through lines. 23 Lines to process.
+[INFO] 2023-11-16 21:04:29: Found value on line.
+							{'event_name': 'BLAST Premier: Final', 'date': '2023-11-22T12:15:00.000+00:00', 'all_lines': 'https://www.pinnacle.com//en/esports-hub/cs2/blast-premier-final/cloud9-vs-natus-vincere/1581842530', 'away_team_name': 'Cloud9', 'away_line': '1.709', 'home_team_name': 'Natus Vincere', 'home_line': '2.060', 'draw_line': None, 'swapped': False, 'match_id': 39193, 'match_slug': 'cloud9-vs-natus-vincere-22-11-2023', 'away_team_id': 780, 'home_team_id': 787, 'bo_type': 3, 'tier': 's', 'hold': 0.07057440051810238}
+							Recommended Amount=$0.0, Team=Cloud9, MyLine=1.672, BookLine=1.709
+[WARNING] 2023-11-16 21:04:32: Bet button was not clickable.
+[INFO] 2023-11-16 21:04:37: Found value on line.
+							{'event_name': 'CCT Oceania Series', 'date': '2023-11-17T07:45:00.000+00:00', 'all_lines': 'https://www.pinnacle.com//en/esports-hub/cs2/cct-oceania-series/sunday-school-vs-stirlzs-angels/1581972972', 'away_team_name': 'sunday school', 'away_line': '1.819', 'home_team_name': 'Stirlzs Angels', 'home_line': '1.917', 'draw_line': None, 'swapped': False, 'match_id': 39252, 'match_slug': 'sunday-school-vs-stirlzs-angels-17-11-2023', 'away_team_id': 5825, 'home_team_id': 5824, 'bo_type': 3, 'tier': 'c', 'hold': 0.07140102029725659}
+							Recommended Amount=$0.0, Team=sunday school, MyLine=1.81, BookLine=1.819
+[WARNING] 2023-11-16 21:04:41: Bet button was not clickable.
+[INFO] 2023-11-16 21:04:41: Found value on line.
+							{'event_name': 'PR Please', 'date': '2023-11-17T11:15:00.000+00:00', 'all_lines': 'https://www.pinnacle.com//en/esports-hub/cs2/pr-please/movistar-riders-vs-bb-team/1582096951', 'away_team_name': 'Movistar Riders', 'away_line': '2.670', 'home_team_name': 'BB Team', 'home_line': '1.487', 'draw_line': None, 'swapped': False, 'match_id': 39631, 'match_slug': 'movistar-riders-vs-betboom-17-11-2023', 'away_team_id': 617, 'home_team_id': 7498, 'bo_type': 3, 'tier': 'c', 'hold': 0.0470267914938205}
+							Recommended Amount=$0.0, Team=Movistar Riders, MyLine=2.581, BookLine=2.670
+[WARNING] 2023-11-16 21:04:45: Bet button was not clickable.
+[INFO] 2023-11-16 21:04:45: Found value on line.
+							{'event_name': 'ESL Challenger Atlanta: European Qualifier', 'date': '2023-11-17T14:45:00.000+00:00', 'all_lines': 'https://www.pinnacle.com//en/esports-hub/cs2/esl-challenger-atlanta-european-qualifier/aurora-vs-movistar-riders/1582103807', 'away_team_name': 'Aurora', 'away_line': '1.529', 'home_team_name': 'Movistar Riders', 'home_line': '2.410', 'draw_line': None, 'swapped': False, 'match_id': 38899, 'match_slug': 'aurora-gaming-vs-movistar-riders-17-11-2023', 'away_team_id': 3598, 'home_team_id': 617, 'bo_type': 3, 'tier': 'b', 'hold': 0.0689599960921492}
+							Recommended Amount=$0.0, Team=Movistar Riders, MyLine=2.408, BookLine=2.410
+[WARNING] 2023-11-16 21:04:49: Bet button was not clickable.
+[INFO] 2023-11-16 21:04:49: Found value on line.
+							{'event_name': 'CCT Online Finals', 'date': '2023-11-17T16:45:00.000+00:00', 'all_lines': 'https://www.pinnacle.com//en/esports-hub/cs2/cct-online-finals/big-vs-preasy/1582069988', 'away_team_name': 'BIG', 'away_line': '1.666', 'home_team_name': 'Preasy', 'home_line': '2.230', 'draw_line': None, 'swapped': False, 'match_id': 39309, 'match_slug': 'big-vs-preasy-esport-17-11-2023', 'away_team_id': 756, 'home_team_id': 6301, 'bo_type': 3, 'tier': 'a', 'hold': 0.04867058931195811}
+							Recommended Amount=$0.0, Team=Preasy, MyLine=2.158, BookLine=2.230
+[WARNING] 2023-11-16 21:04:54: Bet button was not clickable.
+[INFO] 2023-11-16 21:04:54: Found value on line.
+							{'event_name': 'ESL Challenger Atlanta: European Qualifier', 'date': '2023-11-17T19:15:00.000+00:00', 'all_lines': 'https://www.pinnacle.com//en/esports-hub/cs2/esl-challenger-atlanta-european-qualifier/forze-vs-ftw/1582102416', 'away_team_name': 'FTW', 'away_line': '2.860', 'home_team_name': 'FORZE', 'home_line': '1.387', 'draw_line': None, 'swapped': True, 'match_id': 38901, 'match_slug': 'ftw-vs-forze-17-11-2023', 'away_team_id': 449, 'home_team_id': 660, 'bo_type': 3, 'tier': 'b', 'hold': 0.07063088317594435}
+							Recommended Amount=$4.15, Team=FTW, MyLine=2.761, BookLine=2.860
+[WARNING] 2023-11-16 21:04:56: Odds did not match for bet.
+[INFO] 2023-11-16 21:04:56: Found value on line.
+							{'event_name': 'ESL ANZ Champs', 'date': '2023-11-20T07:15:00.000+00:00', 'all_lines': 'https://www.pinnacle.com//en/esports-hub/cs2/esl-anz-champs/grayhound-vs-rooster/1582004247', 'away_team_name': 'Grayhound', 'away_line': '1.344', 'home_team_name': 'Rooster', 'home_line': '3.060', 'draw_line': None, 'swapped': False, 'match_id': 39007, 'match_slug': 'grayhound-vs-rooster-20-11-2023', 'away_team_id': 749, 'home_team_id': 151, 'bo_type': 3, 'tier': 'd', 'hold': 0.07084500466853405}
+							Recommended Amount=$0.0, Team=Rooster, MyLine=2.865, BookLine=3.060
+[WARNING] 2023-11-16 21:05:01: Bet button was not clickable.
+[INFO] 2023-11-16 21:05:01: Found value on line.
+							{'event_name': 'ESL ANZ Champs', 'date': '2023-11-20T09:45:00.000+00:00', 'all_lines': 'https://www.pinnacle.com//en/esports-hub/cs2/esl-anz-champs/vertex-vs-vantage/1582016061', 'away_team_name': 'VERTEX', 'away_line': '1.098', 'home_team_name': 'Vantage', 'home_line': '6.430', 'draw_line': None, 'swapped': False, 'match_id': 39008, 'match_slug': 'vertex-vs-vantage-20-11-2023', 'away_team_id': 138, 'home_team_id': 7845, 'bo_type': 3, 'tier': 'd', 'hold': 0.06626780772052676}
+							Recommended Amount=$0.0, Team=Vantage, MyLine=5.542, BookLine=6.430
+[WARNING] 2023-11-16 21:05:06: Bet button was not clickable.
+[INFO] 2023-11-16 21:05:06: Found value on line.
+							{'event_name': 'BLAST Premier: Final', 'date': '2023-11-22T12:15:00.000+00:00', 'all_lines': 'https://www.pinnacle.com//en/esports-hub/cs2/blast-premier-final/cloud9-vs-natus-vincere/1581842530', 'away_team_name': 'Cloud9', 'away_line': '1.709', 'home_team_name': 'Natus Vincere', 'home_line': '2.060', 'draw_line': None, 'swapped': False, 'match_id': 39193, 'match_slug': 'cloud9-vs-natus-vincere-22-11-2023', 'away_team_id': 780, 'home_team_id': 787, 'bo_type': 3, 'tier': 's', 'hold': 0.07057440051810238}
+							Recommended Amount=$0.0, Team=Cloud9, MyLine=1.672, BookLine=1.709
+[WARNING] 2023-11-16 21:05:09: Bet button was not clickable.
+[INFO] 2023-11-16 21:05:09: Scraping BO3.gg Data
+[INFO] 2023-11-16 21:05:16: Data up to date.
+[INFO] 2023-11-16 21:05:16: Formatting Players Stats
+[INFO] 2023-11-16 21:05:17: Player Stats updated.
+[INFO] 2023-11-16 21:05:17: Updating Player Glicko
+[INFO] 2023-11-16 21:05:18: Glicko ratings updated.
+[INFO] 2023-11-16 21:05:22: Getting line info.
+[INFO] 2023-11-16 21:05:56: Beginning loop through lines. 23 Lines to process.
+[INFO] 2023-11-16 21:05:56: Found value on line.
+							{'event_name': 'BLAST Premier: Final', 'date': '2023-11-22T12:15:00.000+00:00', 'all_lines': 'https://www.pinnacle.com//en/esports-hub/cs2/blast-premier-final/cloud9-vs-natus-vincere/1581842530', 'away_team_name': 'Cloud9', 'away_line': '1.709', 'home_team_name': 'Natus Vincere', 'home_line': '2.060', 'draw_line': None, 'swapped': False, 'match_id': 39193, 'match_slug': 'cloud9-vs-natus-vincere-22-11-2023', 'away_team_id': 780, 'home_team_id': 787, 'bo_type': 3, 'tier': 's', 'hold': 0.07057440051810238}
+							Recommended Amount=$0.0, Team=Cloud9, MyLine=1.672, BookLine=1.709
+[WARNING] 2023-11-16 21:05:59: Bet button was not clickable.
+[INFO] 2023-11-16 21:05:59: Found value on line.
+							{'event_name': 'CCT Oceania Series', 'date': '2023-11-17T07:45:00.000+00:00', 'all_lines': 'https://www.pinnacle.com//en/esports-hub/cs2/cct-oceania-series/sunday-school-vs-stirlzs-angels/1581972972', 'away_team_name': 'sunday school', 'away_line': '1.819', 'home_team_name': 'Stirlzs Angels', 'home_line': '1.917', 'draw_line': None, 'swapped': False, 'match_id': 39252, 'match_slug': 'sunday-school-vs-stirlzs-angels-17-11-2023', 'away_team_id': 5825, 'home_team_id': 5824, 'bo_type': 3, 'tier': 'c', 'hold': 0.07140102029725659}
+							Recommended Amount=$0.0, Team=sunday school, MyLine=1.81, BookLine=1.819
+[WARNING] 2023-11-16 21:06:03: Bet button was not clickable.
+[INFO] 2023-11-16 21:06:03: Found value on line.
+							{'event_name': 'PR Please', 'date': '2023-11-17T11:15:00.000+00:00', 'all_lines': 'https://www.pinnacle.com//en/esports-hub/cs2/pr-please/movistar-riders-vs-bb-team/1582096951', 'away_team_name': 'Movistar Riders', 'away_line': '2.670', 'home_team_name': 'BB Team', 'home_line': '1.487', 'draw_line': None, 'swapped': False, 'match_id': 39631, 'match_slug': 'movistar-riders-vs-betboom-17-11-2023', 'away_team_id': 617, 'home_team_id': 7498, 'bo_type': 3, 'tier': 'c', 'hold': 0.0470267914938205}
+							Recommended Amount=$0.0, Team=Movistar Riders, MyLine=2.581, BookLine=2.670
+[WARNING] 2023-11-16 21:06:07: Bet button was not clickable.
+[INFO] 2023-11-16 21:06:07: Found value on line.
+							{'event_name': 'ESL Challenger Atlanta: European Qualifier', 'date': '2023-11-17T14:45:00.000+00:00', 'all_lines': 'https://www.pinnacle.com//en/esports-hub/cs2/esl-challenger-atlanta-european-qualifier/aurora-vs-movistar-riders/1582103807', 'away_team_name': 'Aurora', 'away_line': '1.529', 'home_team_name': 'Movistar Riders', 'home_line': '2.410', 'draw_line': None, 'swapped': False, 'match_id': 38899, 'match_slug': 'aurora-gaming-vs-movistar-riders-17-11-2023', 'away_team_id': 3598, 'home_team_id': 617, 'bo_type': 3, 'tier': 'b', 'hold': 0.0689599960921492}
+							Recommended Amount=$0.0, Team=Movistar Riders, MyLine=2.408, BookLine=2.410
+[WARNING] 2023-11-16 21:06:12: Bet button was not clickable.
+[INFO] 2023-11-16 21:06:12: Found value on line.
+							{'event_name': 'CCT Online Finals', 'date': '2023-11-17T16:45:00.000+00:00', 'all_lines': 'https://www.pinnacle.com//en/esports-hub/cs2/cct-online-finals/big-vs-preasy/1582069988', 'away_team_name': 'BIG', 'away_line': '1.666', 'home_team_name': 'Preasy', 'home_line': '2.230', 'draw_line': None, 'swapped': False, 'match_id': 39309, 'match_slug': 'big-vs-preasy-esport-17-11-2023', 'away_team_id': 756, 'home_team_id': 6301, 'bo_type': 3, 'tier': 'a', 'hold': 0.04867058931195811}
+							Recommended Amount=$0.0, Team=Preasy, MyLine=2.158, BookLine=2.230
+[WARNING] 2023-11-16 21:06:16: Bet button was not clickable.
+[INFO] 2023-11-16 21:06:16: Found value on line.
+							{'event_name': 'ESL Challenger Atlanta: European Qualifier', 'date': '2023-11-17T19:15:00.000+00:00', 'all_lines': 'https://www.pinnacle.com//en/esports-hub/cs2/esl-challenger-atlanta-european-qualifier/forze-vs-ftw/1582102416', 'away_team_name': 'FTW', 'away_line': '2.860', 'home_team_name': 'FORZE', 'home_line': '1.387', 'draw_line': None, 'swapped': True, 'match_id': 38901, 'match_slug': 'ftw-vs-forze-17-11-2023', 'away_team_id': 449, 'home_team_id': 660, 'bo_type': 3, 'tier': 'b', 'hold': 0.07063088317594435}
+							Recommended Amount=$4.15, Team=FTW, MyLine=2.761, BookLine=2.860
+[WARNING] 2023-11-16 21:06:18: Odds did not match for bet.
+[INFO] 2023-11-16 21:06:18: Found value on line.
+							{'event_name': 'ESL ANZ Champs', 'date': '2023-11-20T07:15:00.000+00:00', 'all_lines': 'https://www.pinnacle.com//en/esports-hub/cs2/esl-anz-champs/grayhound-vs-rooster/1582004247', 'away_team_name': 'Grayhound', 'away_line': '1.344', 'home_team_name': 'Rooster', 'home_line': '3.060', 'draw_line': None, 'swapped': False, 'match_id': 39007, 'match_slug': 'grayhound-vs-rooster-20-11-2023', 'away_team_id': 749, 'home_team_id': 151, 'bo_type': 3, 'tier': 'd', 'hold': 0.07084500466853405}
+							Recommended Amount=$0.0, Team=Rooster, MyLine=2.865, BookLine=3.060
+[WARNING] 2023-11-16 21:06:23: Bet button was not clickable.
+[INFO] 2023-11-16 21:06:23: Found value on line.
+							{'event_name': 'ESL ANZ Champs', 'date': '2023-11-20T09:45:00.000+00:00', 'all_lines': 'https://www.pinnacle.com//en/esports-hub/cs2/esl-anz-champs/vertex-vs-vantage/1582016061', 'away_team_name': 'VERTEX', 'away_line': '1.098', 'home_team_name': 'Vantage', 'home_line': '6.430', 'draw_line': None, 'swapped': False, 'match_id': 39008, 'match_slug': 'vertex-vs-vantage-20-11-2023', 'away_team_id': 138, 'home_team_id': 7845, 'bo_type': 3, 'tier': 'd', 'hold': 0.06626780772052676}
+							Recommended Amount=$0.0, Team=Vantage, MyLine=5.542, BookLine=6.430
+[WARNING] 2023-11-16 21:06:29: Bet button was not clickable.
+[INFO] 2023-11-16 21:06:29: Found value on line.
+							{'event_name': 'BLAST Premier: Final', 'date': '2023-11-22T12:15:00.000+00:00', 'all_lines': 'https://www.pinnacle.com//en/esports-hub/cs2/blast-premier-final/cloud9-vs-natus-vincere/1581842530', 'away_team_name': 'Cloud9', 'away_line': '1.709', 'home_team_name': 'Natus Vincere', 'home_line': '2.060', 'draw_line': None, 'swapped': False, 'match_id': 39193, 'match_slug': 'cloud9-vs-natus-vincere-22-11-2023', 'away_team_id': 780, 'home_team_id': 787, 'bo_type': 3, 'tier': 's', 'hold': 0.07057440051810238}
+							Recommended Amount=$0.0, Team=Cloud9, MyLine=1.672, BookLine=1.709
+[WARNING] 2023-11-16 21:06:32: Bet button was not clickable.
+[INFO] 2023-11-16 21:06:32: Scraping BO3.gg Data
+[INFO] 2023-11-16 21:06:39: Data up to date.
+[INFO] 2023-11-16 21:06:39: Formatting Players Stats
+[INFO] 2023-11-16 21:06:39: Player Stats updated.
+[INFO] 2023-11-16 21:06:39: Updating Player Glicko
+[INFO] 2023-11-16 21:06:40: Glicko ratings updated.
+[INFO] 2023-11-16 21:06:44: Getting line info.
+[INFO] 2023-11-16 21:07:19: Beginning loop through lines. 23 Lines to process.
+[INFO] 2023-11-16 21:07:19: Found value on line.
+							{'event_name': 'BLAST Premier: Final', 'date': '2023-11-22T12:15:00.000+00:00', 'all_lines': 'https://www.pinnacle.com//en/esports-hub/cs2/blast-premier-final/cloud9-vs-natus-vincere/1581842530', 'away_team_name': 'Cloud9', 'away_line': '1.709', 'home_team_name': 'Natus Vincere', 'home_line': '2.060', 'draw_line': None, 'swapped': False, 'match_id': 39193, 'match_slug': 'cloud9-vs-natus-vincere-22-11-2023', 'away_team_id': 780, 'home_team_id': 787, 'bo_type': 3, 'tier': 's', 'hold': 0.07057440051810238}
+							Recommended Amount=$0.0, Team=Cloud9, MyLine=1.672, BookLine=1.709
+[WARNING] 2023-11-16 21:07:23: Bet button was not clickable.
+[INFO] 2023-11-16 21:07:23: Found value on line.
+							{'event_name': 'CCT Oceania Series', 'date': '2023-11-17T07:45:00.000+00:00', 'all_lines': 'https://www.pinnacle.com//en/esports-hub/cs2/cct-oceania-series/sunday-school-vs-stirlzs-angels/1581972972', 'away_team_name': 'sunday school', 'away_line': '1.819', 'home_team_name': 'Stirlzs Angels', 'home_line': '1.917', 'draw_line': None, 'swapped': False, 'match_id': 39252, 'match_slug': 'sunday-school-vs-stirlzs-angels-17-11-2023', 'away_team_id': 5825, 'home_team_id': 5824, 'bo_type': 3, 'tier': 'c', 'hold': 0.07140102029725659}
+							Recommended Amount=$0.0, Team=sunday school, MyLine=1.81, BookLine=1.819
+[WARNING] 2023-11-16 21:07:26: Bet button was not clickable.
+[INFO] 2023-11-16 21:07:26: Found value on line.
+							{'event_name': 'PR Please', 'date': '2023-11-17T11:15:00.000+00:00', 'all_lines': 'https://www.pinnacle.com//en/esports-hub/cs2/pr-please/movistar-riders-vs-bb-team/1582096951', 'away_team_name': 'Movistar Riders', 'away_line': '2.670', 'home_team_name': 'BB Team', 'home_line': '1.487', 'draw_line': None, 'swapped': False, 'match_id': 39631, 'match_slug': 'movistar-riders-vs-betboom-17-11-2023', 'away_team_id': 617, 'home_team_id': 7498, 'bo_type': 3, 'tier': 'c', 'hold': 0.0470267914938205}
+							Recommended Amount=$0.0, Team=Movistar Riders, MyLine=2.581, BookLine=2.670
+[WARNING] 2023-11-16 21:07:30: Bet button was not clickable.
+[INFO] 2023-11-16 21:07:30: Found value on line.
+							{'event_name': 'ESL Challenger Atlanta: European Qualifier', 'date': '2023-11-17T14:45:00.000+00:00', 'all_lines': 'https://www.pinnacle.com//en/esports-hub/cs2/esl-challenger-atlanta-european-qualifier/aurora-vs-movistar-riders/1582103807', 'away_team_name': 'Aurora', 'away_line': '1.529', 'home_team_name': 'Movistar Riders', 'home_line': '2.410', 'draw_line': None, 'swapped': False, 'match_id': 38899, 'match_slug': 'aurora-gaming-vs-movistar-riders-17-11-2023', 'away_team_id': 3598, 'home_team_id': 617, 'bo_type': 3, 'tier': 'b', 'hold': 0.0689599960921492}
+							Recommended Amount=$0.0, Team=Movistar Riders, MyLine=2.408, BookLine=2.410
+[WARNING] 2023-11-16 21:07:35: Bet button was not clickable.
+[INFO] 2023-11-16 21:07:35: Found value on line.
+							{'event_name': 'CCT Online Finals', 'date': '2023-11-17T16:45:00.000+00:00', 'all_lines': 'https://www.pinnacle.com//en/esports-hub/cs2/cct-online-finals/big-vs-preasy/1582069988', 'away_team_name': 'BIG', 'away_line': '1.666', 'home_team_name': 'Preasy', 'home_line': '2.230', 'draw_line': None, 'swapped': False, 'match_id': 39309, 'match_slug': 'big-vs-preasy-esport-17-11-2023', 'away_team_id': 756, 'home_team_id': 6301, 'bo_type': 3, 'tier': 'a', 'hold': 0.04867058931195811}
+							Recommended Amount=$0.0, Team=Preasy, MyLine=2.158, BookLine=2.230
+[WARNING] 2023-11-16 21:07:39: Bet button was not clickable.
+[INFO] 2023-11-16 21:07:39: Found value on line.
+							{'event_name': 'ESL Challenger Atlanta: European Qualifier', 'date': '2023-11-17T19:15:00.000+00:00', 'all_lines': 'https://www.pinnacle.com//en/esports-hub/cs2/esl-challenger-atlanta-european-qualifier/forze-vs-ftw/1582102416', 'away_team_name': 'FTW', 'away_line': '2.860', 'home_team_name': 'FORZE', 'home_line': '1.387', 'draw_line': None, 'swapped': True, 'match_id': 38901, 'match_slug': 'ftw-vs-forze-17-11-2023', 'away_team_id': 449, 'home_team_id': 660, 'bo_type': 3, 'tier': 'b', 'hold': 0.07063088317594435}
+							Recommended Amount=$4.15, Team=FTW, MyLine=2.761, BookLine=2.860
+[WARNING] 2023-11-16 21:07:41: Odds did not match for bet.
+[INFO] 2023-11-16 21:07:41: Found value on line.
+							{'event_name': 'ESL ANZ Champs', 'date': '2023-11-20T07:15:00.000+00:00', 'all_lines': 'https://www.pinnacle.com//en/esports-hub/cs2/esl-anz-champs/grayhound-vs-rooster/1582004247', 'away_team_name': 'Grayhound', 'away_line': '1.344', 'home_team_name': 'Rooster', 'home_line': '3.060', 'draw_line': None, 'swapped': False, 'match_id': 39007, 'match_slug': 'grayhound-vs-rooster-20-11-2023', 'away_team_id': 749, 'home_team_id': 151, 'bo_type': 3, 'tier': 'd', 'hold': 0.07084500466853405}
+							Recommended Amount=$0.0, Team=Rooster, MyLine=2.865, BookLine=3.060
+[WARNING] 2023-11-16 21:07:47: Bet button was not clickable.
+[INFO] 2023-11-16 21:07:47: Found value on line.
+							{'event_name': 'ESL ANZ Champs', 'date': '2023-11-20T09:45:00.000+00:00', 'all_lines': 'https://www.pinnacle.com//en/esports-hub/cs2/esl-anz-champs/vertex-vs-vantage/1582016061', 'away_team_name': 'VERTEX', 'away_line': '1.098', 'home_team_name': 'Vantage', 'home_line': '6.430', 'draw_line': None, 'swapped': False, 'match_id': 39008, 'match_slug': 'vertex-vs-vantage-20-11-2023', 'away_team_id': 138, 'home_team_id': 7845, 'bo_type': 3, 'tier': 'd', 'hold': 0.06626780772052676}
+							Recommended Amount=$0.0, Team=Vantage, MyLine=5.542, BookLine=6.430
+[WARNING] 2023-11-16 21:07:52: Bet button was not clickable.
+[INFO] 2023-11-16 21:07:52: Found value on line.
+							{'event_name': 'BLAST Premier: Final', 'date': '2023-11-22T12:15:00.000+00:00', 'all_lines': 'https://www.pinnacle.com//en/esports-hub/cs2/blast-premier-final/cloud9-vs-natus-vincere/1581842530', 'away_team_name': 'Cloud9', 'away_line': '1.709', 'home_team_name': 'Natus Vincere', 'home_line': '2.060', 'draw_line': None, 'swapped': False, 'match_id': 39193, 'match_slug': 'cloud9-vs-natus-vincere-22-11-2023', 'away_team_id': 780, 'home_team_id': 787, 'bo_type': 3, 'tier': 's', 'hold': 0.07057440051810238}
+							Recommended Amount=$0.0, Team=Cloud9, MyLine=1.672, BookLine=1.709
+[WARNING] 2023-11-16 21:07:55: Bet button was not clickable.
+[INFO] 2023-11-16 21:07:55: Scraping BO3.gg Data
+[INFO] 2023-11-16 21:08:03: Data up to date.
+[INFO] 2023-11-16 21:08:03: Formatting Players Stats
+[INFO] 2023-11-16 21:08:04: Player Stats updated.
+[INFO] 2023-11-16 21:08:04: Updating Player Glicko
+[INFO] 2023-11-16 21:08:05: Glicko ratings updated.
+[INFO] 2023-11-16 21:08:09: Getting line info.
+[INFO] 2023-11-16 21:08:43: Beginning loop through lines. 23 Lines to process.
+[INFO] 2023-11-16 21:08:43: Found value on line.
+							{'event_name': 'BLAST Premier: Final', 'date': '2023-11-22T12:15:00.000+00:00', 'all_lines': 'https://www.pinnacle.com//en/esports-hub/cs2/blast-premier-final/cloud9-vs-natus-vincere/1581842530', 'away_team_name': 'Cloud9', 'away_line': '1.709', 'home_team_name': 'Natus Vincere', 'home_line': '2.060', 'draw_line': None, 'swapped': False, 'match_id': 39193, 'match_slug': 'cloud9-vs-natus-vincere-22-11-2023', 'away_team_id': 780, 'home_team_id': 787, 'bo_type': 3, 'tier': 's', 'hold': 0.07057440051810238}
+							Recommended Amount=$0.0, Team=Cloud9, MyLine=1.672, BookLine=1.709
+[WARNING] 2023-11-16 21:08:46: Bet button was not clickable.
+[INFO] 2023-11-16 21:08:46: Found value on line.
+							{'event_name': 'CCT Oceania Series', 'date': '2023-11-17T07:45:00.000+00:00', 'all_lines': 'https://www.pinnacle.com//en/esports-hub/cs2/cct-oceania-series/sunday-school-vs-stirlzs-angels/1581972972', 'away_team_name': 'sunday school', 'away_line': '1.819', 'home_team_name': 'Stirlzs Angels', 'home_line': '1.917', 'draw_line': None, 'swapped': False, 'match_id': 39252, 'match_slug': 'sunday-school-vs-stirlzs-angels-17-11-2023', 'away_team_id': 5825, 'home_team_id': 5824, 'bo_type': 3, 'tier': 'c', 'hold': 0.07140102029725659}
+							Recommended Amount=$0.0, Team=sunday school, MyLine=1.81, BookLine=1.819
+[WARNING] 2023-11-16 21:08:50: Bet button was not clickable.
+[INFO] 2023-11-16 21:08:50: Found value on line.
+							{'event_name': 'PR Please', 'date': '2023-11-17T11:15:00.000+00:00', 'all_lines': 'https://www.pinnacle.com//en/esports-hub/cs2/pr-please/movistar-riders-vs-bb-team/1582096951', 'away_team_name': 'Movistar Riders', 'away_line': '2.670', 'home_team_name': 'BB Team', 'home_line': '1.487', 'draw_line': None, 'swapped': False, 'match_id': 39631, 'match_slug': 'movistar-riders-vs-betboom-17-11-2023', 'away_team_id': 617, 'home_team_id': 7498, 'bo_type': 3, 'tier': 'c', 'hold': 0.0470267914938205}
+							Recommended Amount=$0.0, Team=Movistar Riders, MyLine=2.581, BookLine=2.670
+[WARNING] 2023-11-16 21:08:54: Bet button was not clickable.
+[INFO] 2023-11-16 21:08:54: Found value on line.
+							{'event_name': 'ESL Challenger Atlanta: European Qualifier', 'date': '2023-11-17T14:45:00.000+00:00', 'all_lines': 'https://www.pinnacle.com//en/esports-hub/cs2/esl-challenger-atlanta-european-qualifier/aurora-vs-movistar-riders/1582103807', 'away_team_name': 'Aurora', 'away_line': '1.529', 'home_team_name': 'Movistar Riders', 'home_line': '2.410', 'draw_line': None, 'swapped': False, 'match_id': 38899, 'match_slug': 'aurora-gaming-vs-movistar-riders-17-11-2023', 'away_team_id': 3598, 'home_team_id': 617, 'bo_type': 3, 'tier': 'b', 'hold': 0.0689599960921492}
+							Recommended Amount=$0.0, Team=Movistar Riders, MyLine=2.408, BookLine=2.410
+[WARNING] 2023-11-16 21:08:59: Bet button was not clickable.
+[INFO] 2023-11-16 21:08:59: Found value on line.
+							{'event_name': 'CCT Online Finals', 'date': '2023-11-17T16:45:00.000+00:00', 'all_lines': 'https://www.pinnacle.com//en/esports-hub/cs2/cct-online-finals/big-vs-preasy/1582069988', 'away_team_name': 'BIG', 'away_line': '1.666', 'home_team_name': 'Preasy', 'home_line': '2.230', 'draw_line': None, 'swapped': False, 'match_id': 39309, 'match_slug': 'big-vs-preasy-esport-17-11-2023', 'away_team_id': 756, 'home_team_id': 6301, 'bo_type': 3, 'tier': 'a', 'hold': 0.04867058931195811}
+							Recommended Amount=$0.0, Team=Preasy, MyLine=2.158, BookLine=2.230
+[WARNING] 2023-11-16 21:09:04: Bet button was not clickable.
+[INFO] 2023-11-16 21:09:04: Found value on line.
+							{'event_name': 'ESL Challenger Atlanta: European Qualifier', 'date': '2023-11-17T19:15:00.000+00:00', 'all_lines': 'https://www.pinnacle.com//en/esports-hub/cs2/esl-challenger-atlanta-european-qualifier/forze-vs-ftw/1582102416', 'away_team_name': 'FTW', 'away_line': '2.860', 'home_team_name': 'FORZE', 'home_line': '1.387', 'draw_line': None, 'swapped': True, 'match_id': 38901, 'match_slug': 'ftw-vs-forze-17-11-2023', 'away_team_id': 449, 'home_team_id': 660, 'bo_type': 3, 'tier': 'b', 'hold': 0.07063088317594435}
+							Recommended Amount=$4.15, Team=FTW, MyLine=2.761, BookLine=2.860
+[WARNING] 2023-11-16 21:09:06: Odds did not match for bet.
+[INFO] 2023-11-16 21:09:06: Found value on line.
+							{'event_name': 'ESL ANZ Champs', 'date': '2023-11-20T07:15:00.000+00:00', 'all_lines': 'https://www.pinnacle.com//en/esports-hub/cs2/esl-anz-champs/grayhound-vs-rooster/1582004247', 'away_team_name': 'Grayhound', 'away_line': '1.344', 'home_team_name': 'Rooster', 'home_line': '3.060', 'draw_line': None, 'swapped': False, 'match_id': 39007, 'match_slug': 'grayhound-vs-rooster-20-11-2023', 'away_team_id': 749, 'home_team_id': 151, 'bo_type': 3, 'tier': 'd', 'hold': 0.07084500466853405}
+							Recommended Amount=$0.0, Team=Rooster, MyLine=2.865, BookLine=3.060
+[INFO] 2023-11-16 21:09:15: System Stopped.
